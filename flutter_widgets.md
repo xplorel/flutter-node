@@ -6,7 +6,7 @@
 | Row                    | ★★★★★      | A widget that displays its children in a horizontal array.   |
 | Column                 | ★★★★★      | A widget that displays its children in a vertical array.     |
 | ListView               | ★★★★★      | A scrollable list of widgets arranged linearly.              |
-| Stack                  | ★★★★☆      | A widget that positions its children relative to the edges of its box. |
+| Stack                  | ★★★★★      | A widget that positions its children relative to the edges of its box. |
 | GestureDetector        | ★★☆☆☆      | A widget that detects gestures.                              |
 | Form                   | ★★★★☆      | An optional container for grouping together multiple form field widgets. |
 | TextFormField          | ★★★★☆      | A text field for form inputs.                                |
