@@ -1,10 +1,10 @@
 
-| Widget Name            | Proficiency | Description                                                  |
-|------------------------|-------------|--------------------------------------------------------------|
-|Container               |★★★★★    |A convenience widget that combines common painting, positioning, and sizing widgets|
-| Text                   | ★★★★★     | Used for displaying text on the screen.                      |
-| Row                    | ★★★★★     | A widget that displays its children in a horizontal array.   |
-| Column                 | ★★★★★     | A widget that displays its children in a vertical array.     |
+| Widget Name            | Proficiency    | Description                                                  |
+|------------------------|----------------|--------------------------------------------------------------|
+|Container               |★★★★★       |A convenience widget that combines common painting, positioning, and sizing widgets|
+| Text                   | ★★★★★      | Used for displaying text on the screen.                      |
+| Row                    | ★★★★★      | A widget that displays its children in a horizontal array.   |
+| Column                 | ★★★★★      | A widget that displays its children in a vertical array.     |
 | ListView               | ★★★★★      | A scrollable list of widgets arranged linearly.              |
 | Stack                  | ★★★★☆      | A widget that positions its children relative to the edges of its box. |
 | GestureDetector        | ★★☆☆☆      | A widget that detects gestures.                              |
